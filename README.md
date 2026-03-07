@@ -101,8 +101,6 @@ class JoaoVitor:
   <img src="https://raw.githubusercontent.com/devJoaoVCosta/devJoaoVCosta/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> ⚠️ **Para ativar a cobra:** Crie um workflow no repositório `.github/workflows/snake.yml` — instruções no final deste README.
-
 ---
 
 ## 📌 Projeto em Destaque
