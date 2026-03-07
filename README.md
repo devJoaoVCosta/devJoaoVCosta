@@ -87,14 +87,6 @@ class JoaoVitor:
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devJoaoVCosta&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
@@ -107,7 +99,18 @@ class JoaoVitor:
 
 <div align="center">
 
-[![Auto SEI](https://github-readme-stats.vercel.app/api/pin/?username=devJoaoVCosta&repo=Auto_SEI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&border_radius=12)](https://github.com/devJoaoVCosta/Auto_SEI)
+<a href="https://github.com/devJoaoVCosta/Auto_SEI">
+  <img src="https://img.shields.io/badge/🤖_Auto__SEI-Automação_do_SEI-7c3aed?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+| | |
+|---|---|
+| 📋 **Descrição** | Automação do Sistema Eletrônico de Informações (SEI) |
+| 🛠️ **Tecnologia** | Python |
+| ⭐ **Estrelas** | 1 |
+| 🔗 **Link** | [Ver repositório](https://github.com/devJoaoVCosta/Auto_SEI) |
 
 </div>
 
