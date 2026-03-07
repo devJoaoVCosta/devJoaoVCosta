@@ -132,43 +132,6 @@ class JoaoVitor:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-<sub>⚡ Feito com 💜 por <a href="https://github.com/devJoaoVCosta">João Vítor Costa</a> • ADS Student • Brasília, Brasil</sub>
+<sub> href="https://github.com/devJoaoVCosta">João Vítor Costa</a> • ADS Student • Brasília, Brasil</sub>
 
-</div>
 
----
-
-<details>
-<summary>⚙️ <b>Como ativar a animação da cobra</b></summary>
-
-<br/>
-
-Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o seguinte conteúdo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: devJoaoVCosta
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
