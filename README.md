@@ -10,11 +10,6 @@
 
 <br/>
 
-<!-- Profile Views & Social -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=devJoaoVCosta&label=Visitantes+do+perfil&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 </div>
 
 ---
@@ -27,7 +22,7 @@ class JoaoVitor:
         self.nome        = "João Vítor Costa Sant'Ana"
         self.username    = "devJoaoVCosta"
         self.localizacao = "Brasília, Brasil 🇧🇷"
-        self.formacao    = "Análise e Desenvolvimento de Sistemas"
+        self.formacao    = "Cursando - Análise e Desenvolvimento de Sistemas"
         self.trabalho    = "Fupresp-Jud"
         self.interesses  = ["Desenvolimento de Sowftare", "Automação de Processos", "Desenvolvimento Web", "APIs REST"]
         self.aprendendo  = ["Node.js", "SQL avançado", "Clean Architecture"]
