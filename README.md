@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=João%20Vítor%20Costa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:343541,50:4A4F5B,100:2B2E36&height=200&section=header&text=João%20Vítor%20Costa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing Effect -->
 <a href="https://github.com/devJoaoVCosta">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%8E%93;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Automatizador+de+Processos+%F0%9F%A4%96;Apaixonado+por+tecnologia+%F0%9F%92%BB;Bras%C3%ADlia%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=343541&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%8E%93;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+tecnologia+%F0%9F%92%BB;Bras%C3%ADlia%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,13 +23,14 @@ class JoaoVitor:
         self.username    = "devJoaoVCosta"
         self.localizacao = "Brasília, Brasil 🇧🇷"
         self.formacao    = "Cursando - Análise e Desenvolvimento de Sistemas"
+        self.idiomas     = ["Inglês Avançado", "Espanhol Básico"]
         self.trabalho    = "Fupresp-Jud"
-        self.interesses  = ["Desenvolimento de Sowftare", "Automação de Processos", "Desenvolvimento Web", "APIs REST"]
-        self.aprendendo  = ["Node.js", "SQL avançado", "Clean Architecture"]
+        self.interesses  = ["Desenvolvimento de Software", "Automação de Processos", "Desenvolvimento Web", "APIs REST"]
+        self.aprendendo  = ["Java", "Next.js", "TailwindCSS", "AWS Cloud"]
         self.objetivo    = "Criar soluções que realmente fazem diferença 🎯"
 
     def curiosidade(self):
-        return "Transformo processos em soluções inteligentes 🤖"
+        return "Tirando ideias do papel💡💻"
 ```
 
 ---
@@ -45,18 +46,32 @@ class JoaoVitor:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 ### ⚙️ Frameworks & Runtime
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 ### 🚀 Deploy & Infraestrutura
 <p>
   <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+### 🎲 Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🎨 Design & Testes
@@ -103,7 +118,7 @@ class JoaoVitor:
 | | |
 |---|---|
 | 📋 **Descrição** | Automação do Sistema Eletrônico de Informações (SEI) |
-| 🛠️ **Tecnologia** | Python |
+| 🛠️ **Tecnologia** | Python - HTML|
 | ⭐ **Estrelas** | 1 |
 | 🔗 **Link** | [Ver repositório](https://github.com/devJoaoVCosta/Auto_SEI) |
 
@@ -126,5 +141,6 @@ class JoaoVitor:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:343541,50:4A4F5B,100:2B2E36&height=120&section=footer&animation=fadeIn" />
 
