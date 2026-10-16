@@ -1,38 +1,21 @@
-👨‍💻 Sobre mim
+{
+  "name": "João Vítor Costa Sant'Ana",
+  "username": "devJoaoVCosta",
+  "role": "Full Stack Developer",
+  "company": "Prevlogic",
+  "location": "Brasília, Brasil 🇧🇷",
+  "education": "Análise e Desenvolvimento de Sistemas",
+  "languages": {
+    "english": "Advanced",
+    "spanish": "Basic"
+  },
+  "interests": [
+    "Software Development",
+    "API Integration",
+    "Process Automation"
+  ],
+}
 
-<div align="center">
-<table>
-<tr>
-<td align="left">
-<table>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/%3C%2F%3E-242938?style=for-the-badge&logoColor=%23A78BFA" alt="Developer icon" />
-</td>
-<td>
-<h2>João Vítor Costa Sant'Ana</h2>
-<code>@devJoaoVCosta</code><br/>
-<strong>Desenvolvedor Full Stack</strong>
-</td>
-</tr>
-</table>
-<hr/>
-💼 &nbsp; <strong>Empresa:</strong> Prevlogic<br/><br/>
-📍 &nbsp; <strong>Localização:</strong> Brasília, Brasil<br/><br/>
-🎓 &nbsp; <strong>Formação:</strong> Análise e Desenvolvimento de Sistemas<br/><br/>
-🌎 &nbsp; <strong>Idiomas:</strong> Inglês avançado · Espanhol básico
-<hr/>
-<h3 align="center">⚡ FOCO</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Web-6C63FF?style=for-the-badge" alt="Web" />
-<img src="https://img.shields.io/badge/Data-6C63FF?style=for-the-badge" alt="Data" />
-<img src="https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge" alt="API Integration" />
-<img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" alt="Automation" />
-</p>
-</td>
-</tr>
-</table>
-</div>
 ---
 
 ## 🛠️ Stack & Ferramentas
