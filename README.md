@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:343541,50:4A4F5B,100:2B2E36&height=200&section=header&text=João%20Vítor%20Costa&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
-
-<br/>
-
 </div>
 
 ---
