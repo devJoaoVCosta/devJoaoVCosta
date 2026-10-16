@@ -1,23 +1,33 @@
+👨‍💻 Sobre mim
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<h2>João Vítor Costa Sant'Ana</h2>
+<p><code>@devJoaoVCosta</code></p>
+<img src="https://img.shields.io/badge/Full_Stack_Developer- A78BFA?style=for-the-badge&labelColor=242938" alt="Full Stack Developer" />
+</td>
+</tr>
+<tr>
+<td>
+💼 <strong>Empresa:</strong> Prevlogic<br/>
+📍 <strong>Localização:</strong> Brasília, Brasil<br/>
+🎓 <strong>Formação:</strong> Análise e Desenvolvimento de Sistemas<br/>
+🌎 <strong>Idiomas:</strong> Inglês avançado · Espanhol básico
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>⚡ FOCO</h3>
+<img src="https://img.shields.io/badge/Web-6C63FF?style=for-the-badge" alt="Web" />
+<img src="https://img.shields.io/badge/Data-6C63FF?style=for-the-badge" alt="Data" />
+<img src="https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge" alt="API Integration" />
+<img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" alt="Automation" />
+</td>
+</tr>
+</table>
 </div>
-
----
-
-## 👨‍💻 Sobre mim
-
-```python
-class JoaoVitor:
-    def __init__(self):
-        self.nome        = "João Vítor Costa Sant'Ana"
-        self.username    = "devJoaoVCosta"
-        self.localizacao = "Brasília, Brasil 🇧🇷"
-        self.formacao    = "Análise e Desenvolvimento de Sistemas"
-        self.idiomas     = ["Inglês Avançado", "Espanhol Básico"]
-        self.trabalho    = "Prevlogic"
-        self.interesses  = ["Desenvolvimento de Software", "APIs Integration" "Automação de Processos"]
-
-    def cargo(self):
-        "Desenvolvedor Full Stack💻"
-```
 
 ---
 
