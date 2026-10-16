@@ -1,20 +1,19 @@
-{class JoaoVitor:
+## 👨‍💻 Sobre mim
+
+```python
+class JoaoVitor:
     def __init__(self):
-        self.nome = "João Vítor Costa Sant'Ana"
-        self.username = "devJoaoVCosta"
+        self.nome        = "João Vítor Costa Sant'Ana"
+        self.username    = "devJoaoVCosta"
         self.localizacao = "Brasília, Brasil 🇧🇷"
-        self.formacao = "Análise e Desenvolvimento de Sistemas"
-        self.idiomas = ["Inglês Avançado", "Espanhol Básico"]
-        self.trabalho = "Prevlogic"
-        self.interesses = [
-            "Desenvolvimento de Software",
-            "Integração de APIs",
-            "Automação de Processos"
-        ]
+        self.formacao    = "Análise e Desenvolvimento de Sistemas"
+        self.idiomas     = ["Inglês Avançado", "Espanhol Básico"]
+        self.trabalho    = "Prevlogic"
+        self.interesses  = ["Desenvolvimento de Software", "APIs Integration" "Automação de Processos"]
 
     def cargo(self):
-        return "Desenvolvedor Full Stack 💻"
-
+        "Desenvolvedor Full Stack💻"
+```
 ---
 
 ## 🛠️ Stack & Ferramentas
