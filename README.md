@@ -1,20 +1,19 @@
-{
-  "name": "João Vítor Costa Sant'Ana",
-  "username": "devJoaoVCosta",
-  "role": "Full Stack Developer",
-  "company": "Prevlogic",
-  "location": "Brasília, Brasil 🇧🇷",
-  "education": "Análise e Desenvolvimento de Sistemas",
-  "languages": {
-    "english": "Advanced",
-    "spanish": "Basic"
-  },
-  "interests": [
-    "Software Development",
-    "API Integration",
-    "Process Automation"
-  ],
-}
+{class JoaoVitor:
+    def __init__(self):
+        self.nome = "João Vítor Costa Sant'Ana"
+        self.username = "devJoaoVCosta"
+        self.localizacao = "Brasília, Brasil 🇧🇷"
+        self.formacao = "Análise e Desenvolvimento de Sistemas"
+        self.idiomas = ["Inglês Avançado", "Espanhol Básico"]
+        self.trabalho = "Prevlogic"
+        self.interesses = [
+            "Desenvolvimento de Software",
+            "Integração de APIs",
+            "Automação de Processos"
+        ]
+
+    def cargo(self):
+        return "Desenvolvedor Full Stack 💻"
 
 ---
 
