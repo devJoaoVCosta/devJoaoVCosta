@@ -108,8 +108,10 @@ class JoaoVitor:
   <a href="https://www.linkedin.com/in/jvcs/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.joaovitorcs.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_Site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
-
 ---
 
 <div align="center">
